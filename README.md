@@ -1,1 +1,1 @@
-# DBMS_Assginment
+# JAVA & MYSQL Connectivity
